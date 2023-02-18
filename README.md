@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.</h3>
 
 - 🛠 Frontend Engineer | **Typescript** | **Javascript**
 
@@ -88,11 +88,6 @@ height="40" /> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="docker" width="40" height="40" /> </a>
-
-###### Deploy sites
-<a href="https://www.netlify.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" width="40"
-        height="40" /> </a>
 
 ###### Low level languages
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
