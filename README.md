@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://martinemanuel.vercel.app/](https://martinemanuel.vercel.app/)
 
-- 💬 Ask me about **React, Css, Scss, data structures, algorithms**
+- 💬 Ask me about **React, TypeScript, scss, data structures**
 
 - 📫 How to reach me **martinemanuel93@gmail.com**
     
