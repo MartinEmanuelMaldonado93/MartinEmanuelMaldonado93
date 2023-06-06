@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.</h3>
 
-- 🛠 Frontend Engineer | **Typescript** | **Javascript**
+- 👨‍💻  Frontend Engineer | **Typescript** | **Javascript**
 
 - 🌱 I’m currently learning ***GraphQL, Docker, CI/CD, Nest.js***
-
-- 👨‍💻 All of my projects are available at [https://martinemanuel.vercel.app/](https://martinemanuel.vercel.app/)
-
-- 💬 Ask me about **React, TypeScript, scss, data structures**
+ 
+- 💬 Ask me about **React,Angular, TypeScript, and data structures**
 
 - 📫 How to reach me **martinemanuel93@gmail.com**
     
