@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.</h3>
+<h3 align="center">A passionate software developer from Buenos Aires, Argentina.</h3>
 
 - 👨‍💻  Frontend Engineer | **Typescript** | **Javascript**
 
 - 🌱 I’m currently learning ***GraphQL, Docker, CI/CD, Nest.js***
  
 - 💬 Ask me about **React,Angular, TypeScript, and data structures**
-
-- 📫 How to reach me **martinemanuel93@gmail.com**
     
 <h3 align="left">Tools:</h3>
 <p align="left">
