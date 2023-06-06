@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate software developer from Buenos Aires, Argentina.</h3>
 
-- 👨‍💻  Frontend Engineer | **Typescript** | **Javascript**
+- 👨‍💻  **Typescript** | **Javascript**
 
 - 🌱 I’m currently learning ***GraphQL, Docker, CI/CD, Nest.js***
  
