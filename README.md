@@ -63,12 +63,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
         width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<a title="c#" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    alt="csharp" width="40" height="40" /> </a>
-<a title=".net" href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-    alt="dotnet" width="40" height="40" /> </a>
 
 ##### Database
 <a title="mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
