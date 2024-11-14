@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ***GraphQL, Docker, CI/CD, Nest.js***
  
 - 💬 Ask me about **React,Angular, TypeScript, and data structures**
-- Portfolio : https://martin-emanuel.vercel.app/
+- Portfolio : https://martin-emanuel.com/
 <h3 align="left">Tools:</h3>
 <p align="left">
 
