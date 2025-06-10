@@ -1,31 +1,22 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate software developer from Buenos Aires, Argentina.</h3>
 
-- 👨‍💻  **Typescript** | **Javascript**
+- 🟦  **Typescript** | **Javascript**
 
-- 🌱 I’m currently learning ***GraphQL, Docker, CI/CD, Nest.js***
+- 🌱 I’m currently learning ***Computer Graphics: (Webgl, OpenGL, Metal)***
  
-- 💬 Ask me about **React,Angular, TypeScript, and data structures**
+- 💬 Ask me about **React, Remix/React-Router, Design Systems**
 - Portfolio : https://martin-emanuel.com/
 <h3 align="left">Tools:</h3>
 <p align="left">
 
 ##### Javascript Frameworks/Libraries
-<a title="react" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
- <a title="svelte" href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="40"
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
         height="40"/>
-    </a>
- <a title="svelte" href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
-        height="40"/>
-    </a>
-<a title="redux" href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="40" height="40" /> </a>
-
+<img width="40"
+        height="40" src="https://logowik.com/content/uploads/images/qwik-framework1788.logowik.com.webp">
     
 ##### Compilers/Bundlers
 <a title="typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
@@ -52,33 +43,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="40" height="40" /> </a>
 
-##### Backend
-<a title="nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a>
-<a title="express" href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="40" height="40" /> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-
-##### Database
-<a title="mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" /> </a>
- <a title="postgresql" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-    
-##### Testing
-<a title="jest" href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-</a>
-
-##### Container
-<a title="docker" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" /> </a>
-
 ###### Low level languages
 <a title="arduino" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
         src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
@@ -91,13 +55,3 @@
 <a title="c++" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus" width="40" height="40" /> </a>
-<a title="linux" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux" width="40" height="40" /> </a>
-###### WebGl (3D graphics)
-<a title="threejs" href="https://threejs.org" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"
-     alt="threejs" width="40" height="40"/> </a>
-</p>
-
-   
