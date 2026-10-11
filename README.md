@@ -7,8 +7,7 @@
   <a href="https://martin-emanuel.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-Software developer from Buenos Aires, Argentina 🇦🇷, focused on shipping reliable AI-powered products.
-I'm constantly learning **LLM workflows**, **token / prompt optimization**, and **integrations with hosted (OpenAI) and local models**.
+Software developer from Buenos Aires, Argentina 🇦🇷, shipping reliable AI-powered products with LLMs.
 
 - 🧠 **AI / LLM:** LLM workflows · prompt & token optimization · RAG · tool calling
 - 🔌 **Integrations:** OpenAI API · local models (Ollama / llama.cpp) · streaming
@@ -47,9 +46,11 @@ I'm constantly learning **LLM workflows**, **token / prompt optimization**, and 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/static/v1?label=&message=Remix&color=000000&style=for-the-badge&logo=remix&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Qwik](https://img.shields.io/badge/Qwik-18B6F6?style=for-the-badge&logo=qwik&logoColor=white)
+![Qwik](https://img.shields.io/static/v1?label=&message=Qwik&color=18B6F6&style=for-the-badge&logo=qwik&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 **Styles**
 
@@ -57,10 +58,6 @@ I'm constantly learning **LLM workflows**, **token / prompt optimization**, and 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Build & Tooling**
-
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 **Low level**
 
