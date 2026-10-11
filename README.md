@@ -13,8 +13,6 @@ Software developer from Buenos Aires, Argentina 🇦🇷, shipping reliable AI-p
 - 🔌 **Integrations:** OpenAI API · local models (Ollama / llama.cpp) · streaming
 - 🧱 **Core stack:** TypeScript · JavaScript · Node.js · AWS · Docker
 - ⚙️ **Low level:** C++ — LeetCode/DSA practice + learning hardware architecture
-- 💬 **Ask me about:** LLM workflows, React, Remix/React-Router, Design Systems
-- 🌱 **Always learning:** better LLM workflows, token/cost optimization, and how machines actually work under the hood
 
 ## 🎯 Currently
 
