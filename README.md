@@ -47,10 +47,10 @@ Software developer from Buenos Aires, Argentina 🇦🇷, shipping reliable AI-p
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Remix](https://img.shields.io/static/v1?label=&message=Remix&color=000000&style=for-the-badge&logo=remix&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Qwik](https://img.shields.io/static/v1?label=&message=Qwik&color=18B6F6&style=for-the-badge&logo=qwik&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Remix](https://img.shields.io/static/v1?label=&message=Remix&color=000000&style=for-the-badge&logo=remix&logoColor=white)
+![Qwik](https://img.shields.io/static/v1?label=&message=Qwik&color=18B6F6&style=for-the-badge&logo=qwik&logoColor=white)
 
 **Styles**
 
