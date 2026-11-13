@@ -66,9 +66,6 @@ Software developer from Buenos Aires, Argentina 🇦🇷, shipping reliable AI-p
 ## 📌 Featured Projects
 
 - **[Algorithms_DS](https://github.com/MartinEmanuelMaldonado93/Algorithms_DS)** — A collection of the most famous algorithms & data structures, implemented in **C++** and **TypeScript**.
-- **[code-runner](https://github.com/MartinEmanuelMaldonado93/code-runner)** — A browser-based code runner built with TypeScript. [Live demo](https://code-runner-react.vercel.app).
-- **[Booking_Frontend](https://github.com/MartinEmanuelMaldonado93/Booking_Frontend)** — Booking app frontend built with TypeScript.
-- **[MercadoLibre_3d](https://github.com/MartinEmanuelMaldonado93/MercadoLibre_3d)** — A 3D interactive experience. [Live demo](https://mercadolibre3d.netlify.app/).
 
 ## 📊 GitHub Stats
 
